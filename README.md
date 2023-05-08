@@ -1,2 +1,2 @@
 # HR Analysis Project
-This dashboard shows the attinution from a complany,
+This dashboard is used to analyse the attriation from a complany because of different reason.

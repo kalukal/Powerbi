@@ -1,2 +1,2 @@
-# HR Project
-This contains powerbi dashboards
+# HR Analysis Project
+This dashboard shows the attinution from a complany,
